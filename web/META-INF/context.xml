@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context antiJARLocking="true" path="/BL-JBL">
+  <ResourceLink global="jdbc/PGpoolBL" name="jdbc/PGpoolBL" type="javax.sql.DataSource"/>
+</Context>
